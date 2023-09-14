@@ -3,5 +3,11 @@
 ### Author
 André Araújo
 
-### Goal
-Repository for python scripts developed for the analysis of the BLE packets via Wireshark captured data.
+### Description
+Repository for python scripts developed for the analysis of the BLE packets via Wireshark captured data. 
+
+The analysis include four performance metrics:
+- Packet Loss (%)
+- Total Test Time (s)
+- Acquisition Rate (Hz)
+- Payload Size (bytes)
